@@ -1,0 +1,43 @@
+.nav-container{
+    display: flex;
+    height: 40px;
+}
+.nav-left{
+    width: 20%;
+}
+.nav-center{
+    width: 40%;
+}
+.nav-right{
+    width: 40%;
+}
+.today-date{
+    /* padding: 0px; */
+    margin: auto;
+}
+.navbar{
+    /* height: 40px; */
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.items{
+    display: flex;
+    color: blue;
+    margin:0px;
+    padding: 0px;
+}
+.nav-item{
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 22px;
+    /* padding-top: 0px;
+    padding-bottom: 0px;
+    margin: 0px; */
+}
+.nav-item:hover{
+    cursor: pointer;
+    background-color: lightcoral;
+    color: white;
+    font-size: 24px;
+}

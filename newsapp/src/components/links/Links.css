@@ -1,0 +1,17 @@
+.title{
+    text-align: center;
+    padding: 0px;
+    margin:0px;
+    background-color: rgb(233, 223, 223);
+    color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 22px;
+    font-variant: small-caps;
+}
+.link-table{
+    margin-top: 20px;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    border-top: 1px solid black;
+}

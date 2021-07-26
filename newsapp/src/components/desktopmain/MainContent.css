@@ -1,0 +1,22 @@
+.main-content{
+    /* background-color: aqua; */
+    height: 100vh;
+    display: flex;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.left{
+    width: 15%;
+    height: 100vh;
+    /* background-color: violet; */
+}
+.center{
+    width: 60%;
+    height: 100vh;
+    /* background-color: tomato; */
+}
+.right{
+    width: 15%;
+    height: 100vh;
+    background-color: white;
+}
